@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "grand-object-341716",
+  "private_key_id": "358c2c038dc0f49f148f1e73bf32d4a3c2e7f3d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG1XBkFz0SkRmj\nYAAfYujj6qOy/DjWViEf3WcBW7a+oW0KOEj1HoErDil5+DrRrOLIXigmrJRpoe/u\nSEYxq1OiNFr5W37v1h5TrrYqp6u6KZa0WJnVEW/uV9A5TbUL9HWF0lkV+C0aqCQB\n0QYPfqL50ZmWCwu/JY+NXKz4dSSmfqvAH9on2zudSXo/yY/398U2rj/O/1NhffXz\nsR24a/mCUjj+hK6vvX00uGzAiNSsvGaxwtTCbgyRObCr+/aU726jicmMEfCwhXrw\nL9vd6faXtZyTRJfeU++oiW2+e3oHBO46QnihZ/fA3Lsm5FcRoJFFGOFxAocMrW2o\nGWpJl9xjAgMBAAECggEALsmb1Fmpi9xsAYc+ECSos7ULhzsVrs3+pm5lZirsMihv\nLaf39wISGA0Rkntob910UfziCtOyarbp7BLCvb5YhEM4oxO2J36ljUB/6kKhRMGz\njkWJEVu0kIvGWi2gbCs+mlpYjzRifLLTIkBK4kuE0y9Qqj94KKcQhA2qQB7knG6o\nRm5qLdfhvushL5aNMt14cDs8SCZoBJZw0xFYkLzaNN06W5VCLEt5nKjsD301cKe6\nVHfINIdZ44TRhP5Ya7/zn0zKT+7yy1Saz9wZW93iluBO6LoYOfGo/f3TW4mzpAsC\nFGrTulXfyCQjATUQ2UFJdp7DZ6aHoWR++6vYAGk9ZQKBgQD/A3sJaP5ShWo8abxg\njbooncxb8kUby3EitwtlhGGLK3IfjfP+Hw2tH7uHPhFcZBacbkIItPsjdchxX6WT\nrVX12jWUYj5wmnRmFS8NHlfPGty/wA1hiupMYD3826OU3FyagupNP3f2qPZdmsSX\neSpVjGkxKSEBK/1821MeVNPIpwKBgQDHmlP6mUMw8TZVMGLHhiauieXXORq6WJSK\nosK550ZEcfWvKxmHepKl1y0srzmCwsGDPqmMNhfxXjJXFMMgnDY4qfsczqMOosNu\ngWWRNCIrhobYNanBHpWawXRL63MWZhVyR0ULKsxad/VR3Qg/+eccbFzz6VPJKNrD\nTeTSVJyJ5QKBgHMpgzqwq4lgrqUxqtx/pH4LJOqw8fynVyQyPXdO3S4YJKWTWYh9\nRZPVLL7ajMSIfp2OPUvpTzCoVCi+5OtX7+Xi8SddZo07cy1Wi7UE6uqgWuhNNr3C\nGiT7oYK7PZhQG5G7ZUwVSXueugNzjSxKj4+qpSaKSFlbIFJuSY79B9cpAoGAYtNG\nQQ0g91p2TDdosOD6xfAAnE7prNmusfVj9CdN4xWJTvFH8ov9j565/yXCk7tZlGGy\nEHm34QmCYxskgUDWl7eRXPHySYzMtina38mwIVy55tKq+bLq33Ro4C3zDWP9ulcP\nGDhYdXJvQ9jr/MD+bFQ6sYkUssRHi+tFH95EowECgYEAnALv7kewIvUT12DZQlWf\nYryrPy1Ts5oaHTnTFeAIi3n9Pcj/2EvlhBLRQEd4s+HeqU/NHYTuCcr5qKnemXMP\n7qz3YfIhck/nju+77b7FY9tayKxRwwxdTDD6dli+KX4bRoWGnSuP56GfHn8VfeSu\nG2vC3c6/LXZnPqcafLQx3Cc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "burger-buddy@grand-object-341716.iam.gserviceaccount.com",
+  "client_id": "112825710662375828803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/burger-buddy%40grand-object-341716.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
