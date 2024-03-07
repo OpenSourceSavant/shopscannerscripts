@@ -60,6 +60,7 @@ def main(url, messageReceived):
             deal.imageUrl = amazon_data["imageUrl"]
             deal.dealPrice = amazon_data["dealPrice"]
             deal.mrp = amazon_data["mrp"]
+            deal.dealPercent = round((deal.mrp - deal.dealPrice) * 100 / deal.mrp)
             deal.category = amazon_data["category"]
             ##create firestore document
             if deal.dealPrice>0:

@@ -65,6 +65,8 @@ def main(url, messageReceived):
             deal.imageUrl = flipkart_data["imageUrl"]
             deal.dealPrice = flipkart_data["dealPrice"]
             deal.mrp = flipkart_data["mrp"]
+            deal.dealPercent = round((deal.mrp - deal.dealPrice) * 100 / deal.mrp)
+
             deal.storeUrl = flipkart_data["storeUrl"]
 
             ##create firestore document
